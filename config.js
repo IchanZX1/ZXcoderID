@@ -55,7 +55,7 @@ global.nomorwa = '0'
 
 global.readMore = readMore
 global.author = 'Created By IchanZX'
-global.namebot = '𝒁𝑿𝒄𝒐𝒅𝒆𝒓𝑰𝑫'
+global.namebot = '𝑪𝒉𝒂𝒊𝒏𝒃𝒐𝒕𝒛'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝒁𝑿𝒄𝒐𝒅𝒆𝒓𝑰𝑫'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
